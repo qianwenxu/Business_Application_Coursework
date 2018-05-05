@@ -1,0 +1,95 @@
+<mockup version="5.2" minAllowVersion="5.2" ID="38597CB5-F3EF-4664-A8EC-2698F37452BB" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="B0E8211D-91C1-49E9-908B-1F72DC3AE1D5" controlTypeID="PopupPanel" x="197" y="123" w="46" h="46" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="86C6F599-A82A-4117-B360-1971DB66A96F" controlTypeID="Panel" x="0" y="0" w="1100" h="6000" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="66E8ED89-295D-4322-820E-AC250A4D73AE" controlTypeID="Border" x="0" y="0" w="1100" h="6000" zOrder="0">
+              <caption>%E8%BE%B9%E6%A1%86</caption>
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="CE14A9C5-121D-4216-BB8C-11AD368C9DA9" controlTypeID="PopupPanelContent" x="317" y="152" w="527" h="400" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="4561D7E7-587C-4788-A854-081AEADF8F69" controlTypeID="Panel" x="0" y="0" w="527" h="400" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="04126507-3EB6-402C-9AA4-1F31D148C9BB" controlTypeID="Border" x="0" y="0" w="527" h="400" zOrder="0">
+                  <caption>%E8%BE%B9%E6%A1%86</caption>
+                  <alias>borderLayer</alias>
+                </control>
+              </groupChildrenDescriptors>
+              <thinkness>1</thinkness>
+            </control>
+            <control controlID="D41E6819-17E9-48BA-BE94-50B0BAA10CB3" controlTypeID="Label" x="215" y="37" w="61" h="19" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B6C0A072-76A3-43CE-9513-23577B6B3EE4" controlTypeID="Label" x="88" y="104" w="52" h="19" zOrder="2">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E5%8E%9F%E5%AF%86%E7%A0%81%EF%BC%9A</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D95FC20A-A9E0-43C7-B67B-CBC8201B1E62" controlTypeID="TextInput" x="162" y="102" w="138" h="24" zOrder="3">
+              <borderColor>4287927444</borderColor>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <placeHolder>%E8%AF%B7%E8%BE%93%E5%85%A5</placeHolder>
+              <inputModel>emPassword</inputModel>
+            </control>
+            <control controlID="50E1298A-8659-4C8E-BD14-68BF514DF96A" controlTypeID="Label" x="88" y="144" w="52" h="19" zOrder="4">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E6%96%B0%E5%AF%86%E7%A0%81%EF%BC%9A</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="925A3C91-B649-4892-B6E7-23CD0093D080" controlTypeID="TextInput" x="162" y="142" w="138" h="24" zOrder="5">
+              <borderColor>4287927444</borderColor>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <placeHolder>%E8%AF%B7%E8%BE%93%E5%85%A5</placeHolder>
+              <inputModel>emPassword</inputModel>
+            </control>
+            <control controlID="C55FBFEA-356A-4585-A024-A116B8E13172" controlTypeID="Label" x="88" y="185" w="66" h="19" zOrder="6">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E9%87%8D%E5%A4%8D%E5%AF%86%E7%A0%81%EF%BC%9A</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="63986A10-ECD9-4534-A89B-4F47167F225A" controlTypeID="TextInput" x="162" y="183" w="138" h="24" zOrder="7">
+              <borderColor>4287927444</borderColor>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <placeHolder>%E8%AF%B7%E8%BE%93%E5%85%A5</placeHolder>
+              <inputModel>emPassword</inputModel>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+      <isBackgroundFade>True</isBackgroundFade>
+      <aniType>dnFade</aniType>
+      <isShowBackground>True</isShowBackground>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

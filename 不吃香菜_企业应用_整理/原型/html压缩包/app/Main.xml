@@ -1,0 +1,2532 @@
+﻿<project version="2.9" name="企业应用v3.2" ID="4473C312-ACEC-4F5F-BC26-1F3FEA957EFF">
+  <params>
+    <pageParam version="5.2" minAllowVersion="5.2"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1150,6000)" backgroundColor="4280595434" fontSize="14" fontFamily="微软雅黑" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="登录" ID="70A46354-FDAB-4036-9F20-6EB4D391D88F" expanded="True" code="26MDqFcCLp" thumbCode="26MDqFcCLp" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F9B23F8E1D3D8455568D606C4B3F0A94.png"/>
+        <image key="75BA60A4860FF17DE2568E4319C011E5.jpg"/>
+        <image key="4FD5966852542612EBBAFE6F2A4F8D76.jpg"/>
+      </images>
+    </page>
+    <page name="BOM信息管理" ID="1C07AB11-A307-4B50-AA1B-08108D40A7E0" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="物料信息" ID="912F9770-D15D-456F-86C0-17C323839187" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="物料列表" ID="6841E254-F371-4AF7-BA26-9890FD2DA995" expanded="False" code="2kxX36LvRy" thumbCode="2kxX36LvRy" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料查询" ID="999ECF1D-FDFC-4884-A341-96D4D577B18A" expanded="False" code="e8J3FPsTiE" thumbCode="e8J3FPsTiE" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料信息" ID="4D47ABEA-02A0-4B16-A4CC-33F6B2BB92CA" expanded="True" code="8DMSj57gZo" thumbCode="8DMSj57gZo" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="BOM" ID="2BBB3FB1-2CCF-424E-8FCD-67DC0745A7BC" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="BOM列表" ID="6CF6C4F3-D5E5-48EF-9D45-18F815CFFF3C" expanded="True" code="HHNz8CNCKS" thumbCode="HHNz8CNCKS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="BOM查询" ID="53B5506E-3F52-434A-8ADC-833C966E080E" expanded="True" code="Ft7gypYFZn" thumbCode="ljZMxs4tF5" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="BOM信息" ID="78C075AF-5AE3-45D2-A427-006E5E8CED97" expanded="True" code="Lc7zTuupsO" thumbCode="Lc7zTuupsO" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="BOM首页" ID="BCA2CC51-453B-499C-B56D-0DF234AF72D3" expanded="True" code="o17q1uDb81" thumbCode="o17q1uDb81" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="商品信息" ID="36C2F14D-A703-47C2-972C-49517BBA9844" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="商品列表" ID="5D5ED97C-396D-4039-A3E8-F604EFA40F7F" expanded="False" code="JfpFYV7HV2" thumbCode="JfpFYV7HV2" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="商品查询" ID="6EF356D1-638E-442E-BE30-853C9A96CCE1" expanded="True" code="oPYwdP9FGh" thumbCode="oPYwdP9FGh" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="商品信息" ID="10B3D054-C3DC-4687-91DD-21A48C051D41" expanded="False" code="KGAaharkoX" thumbCode="8VBGGM1uOW" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="成本管理" ID="2B016D11-0587-4E9E-9FE0-980906933734" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="产品成本" ID="5DD9F307-F972-463F-B757-40969E11B6F9" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="产品成本查询" ID="C76F62E6-A6F0-4E1B-BBC2-ACC44E24A9E8" expanded="False" code="xDKdeKsCcP" thumbCode="xDKdeKsCcP" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="产品成本列表" ID="1D89E487-4099-47F0-987F-AD08BD0E7044" expanded="False" code="hMNNkLU1na" thumbCode="hMNNkLU1na" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="产品成本" ID="94417CD6-16AA-4960-833E-EDCE056B746E" expanded="True" code="pRYpT9t3sF" thumbCode="pRYpT9t3sF" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="物料" ID="BA9D86D5-DA05-4A46-8335-C1642483307D" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="物料成本查询" ID="230B5B8F-400E-49EC-B917-CE362AD64710" expanded="False" code="MSFM6fJkVU" thumbCode="MSFM6fJkVU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料成本" ID="7318872A-47C4-48C3-9521-6B161D9E62BC" expanded="False" code="6wdMSWksAt" thumbCode="6wdMSWksAt" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+        <page name="物料成本列表" ID="B9337DEF-DABD-49BC-B6B0-A3BB3566D191" expanded="False" code="4v1kxfKQMI" thumbCode="4v1kxfKQMI" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="成本管理首页" ID="CD1722A9-B84B-4726-902C-5FEBA97A4263" expanded="True" code="yoFfjzxha4" thumbCode="yoFfjzxha4" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="采购" ID="DA6F963D-07ED-463F-A9CD-9817066C9319" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="采购订单" ID="B795AD67-A380-4F3C-B577-456BEE54B987" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购订单列表" ID="3800BB32-6809-4BB9-93F2-2619A0B0A078" expanded="True" code="u8JW4Wsjk1" thumbCode="u8JW4Wsjk1" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购订单" ID="A56B4876-B64E-4582-8CD9-E6C5B3E962D1" expanded="False" code="rjyvvA7pdO" thumbCode="rjyvvA7pdO" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购退货" ID="CF1BEBCC-9FD7-4C36-819F-03A34D3251FE" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购退货列表" ID="A5B8B7B4-945C-4024-A308-CEF2A34679E1" expanded="True" code="UQpCWPNbmy" thumbCode="UQpCWPNbmy" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购退货" ID="280F45C4-B61B-4AB1-8C66-AAE77F9A8B09" expanded="False" code="kweTc79oqv" thumbCode="kweTc79oqv" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购计划" ID="FB9A16CE-D85B-403C-9BC4-B945EDFEF2C4" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购计划列表" ID="405B7534-53B6-48FE-933C-1DA9F0BF02E9" expanded="False" code="2UicofilSs" thumbCode="2UicofilSs" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购计划" ID="3B8AF061-65E5-430F-BA86-E08C45BF6531" expanded="True" code="uOcTjeuHQm" thumbCode="uOcTjeuHQm" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购申请" ID="4650146B-47AB-409F-91DC-C6296469CE96" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购申请列表" ID="B1B08DC1-DA46-494E-B9E0-1341EFA4416A" expanded="False" code="8WyI2pD4wQ" thumbCode="8WyI2pD4wQ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购申请" ID="AD2D9C90-0882-4A01-A6BD-55037ACE1C66" expanded="True" code="lna5sSyKJr" thumbCode="lna5sSyKJr" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购到货" ID="0D85225A-4B0C-464A-ABB0-572682024200" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购到货列表" ID="8340AC14-6B40-47EA-8BBC-9DDF9FD07E44" expanded="False" code="Jdrr5JYbHO" thumbCode="Jdrr5JYbHO" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购到货" ID="EB436C40-AD66-4725-AFA3-5D76CF5E6DB2" expanded="False" code="oYnujeH7cs" thumbCode="oYnujeH7cs" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购询价" ID="5CCD04AA-07DB-4996-8193-15164C81E224" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购询价列表" ID="1267A17D-9666-43E8-AE05-72D8C212A8E3" expanded="False" code="hHPlDfLUJ3" thumbCode="hHPlDfLUJ3" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购询价" ID="5CBDAD6D-F14F-488E-AD87-2B69A1E923C3" expanded="True" code="Mk4i6xGIym" thumbCode="Mk4i6xGIym" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购合同" ID="C596EB6E-1FE5-48E1-8386-8667E996EBAB" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购合同列表" ID="B6975184-6FFF-4CD1-9C0F-882938D8777A" expanded="False" code="NojwgMutxU" thumbCode="NojwgMutxU" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购合同" ID="8AB3326D-890C-4366-8150-AE4F7C914ACC" expanded="False" code="hut4L9Edlb" thumbCode="hut4L9Edlb" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购查询" ID="D3129266-2C53-426C-9D1B-BAAD7CA27861" expanded="True" code="oqTKnajN5J" thumbCode="oqTKnajN5J" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="采购管理首页" ID="79258FF9-0993-47C4-B0AE-7E0EB793EFBE" expanded="True" code="DODhIWmn83" thumbCode="DODhIWmn83" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="库存" ID="81E95E1A-9D3B-4B63-9E89-82390665BD18" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="库存管理首页" ID="237E7C47-EE8D-4D2C-9435-F0CD931AFEB5" expanded="True" code="VY3uJfZtfa" thumbCode="VY3uJfZtfa" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+        </images>
+      </page>
+      <page name="物料查询" ID="09B1FED0-DA6A-4A60-864E-D41AF3155A6F" expanded="False" code="3ZBOhAvFeV" thumbCode="3ZBOhAvFeV" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="其他入库" ID="515DB6BC-6D5D-4B85-84C0-4E4AC8655176" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="其他入库列表" ID="465F35F8-2028-47F8-A0A7-40B326624431" expanded="True" code="4mCska1ez1" thumbCode="ECC1dX8SgO" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+        <page name="其他入库" ID="1FB408CE-38BE-46E4-9C6E-0F58291B68FF" expanded="False" code="7NofHkTi4U" thumbCode="7NofHkTi4U" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="库存报损" ID="1D5122B8-813F-4CDF-8855-63339AA6E820" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="库存报损列表" ID="6E4AA130-6E22-454C-B030-49D6866B02AD" expanded="False" code="EudZwEwnv5" thumbCode="EudZwEwnv5" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="库存报损" ID="0359E1A4-250F-4015-A1A5-1497ACE236A2" expanded="False" code="O2MGcuf8rR" thumbCode="O2MGcuf8rR" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="期末盘点" ID="4A51B8F4-B6ED-4BE5-87D1-96512A39DA4A" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="期末盘点列表" ID="18BE5D95-7979-4B66-AC77-1C1C4D58A96F" expanded="True" code="8cxRncLDde" thumbCode="8cxRncLDde" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="期末盘点" ID="2A5341CD-EC27-406C-B749-059316F1BF42" expanded="False" code="n5towmIkdP" thumbCode="n5towmIkdP" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="出库管理" ID="FDD029E5-4204-44AA-A46C-8B8B58342693" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="出库管理列表" ID="27745AA6-1EF8-470C-A346-C786B91D189D" expanded="False" code="y6DV3sM6mC" thumbCode="y6DV3sM6mC" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="出库管理" ID="CCD6F16B-0BBB-43E2-8ACF-5DDDDEFB37B1" expanded="False" code="1yN39Libdi" thumbCode="1yN39Libdi" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="库存期初" ID="65D33D08-1B7B-4AA5-BD24-7457C930BC80" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="库存期初列表" ID="313E6A0A-962D-46F3-B2E5-2FFD43B072CE" expanded="False" code="FXxWTJ3J4X" thumbCode="FXxWTJ3J4X" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="库存期初" ID="70B8764B-16D6-47E2-A213-2BEF7E2C5782" expanded="False" code="2sY5NIIGVG" thumbCode="2sY5NIIGVG" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="采购入库" ID="B93C4864-BF13-4D9C-B15C-29F7F9E91118" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="采购入库列表" ID="4B4A9263-B2A8-4816-A499-FC29C6F1B2B6" expanded="False" code="aOM3urWDFI" thumbCode="aOM3urWDFI" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="采购入库" ID="338A7AB2-F154-4A3F-84C7-5891B6843BB3" expanded="False" code="A4P96cQAMz" thumbCode="A4P96cQAMz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="供应商" ID="EAA97E68-484A-4739-94BB-9DAC95D360F7" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="联络" ID="9F7A1171-156C-4B9D-AA69-EC0E7F666C1F" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="联络列表" ID="C5FDCCD5-BC45-468D-9971-80F5E9A6A7FD" expanded="False" code="ynsutnnOIS" thumbCode="ynsutnnOIS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="联络查询" ID="DC5BA4C1-ED6B-42FF-8473-CDA3B9F3E459" expanded="False" code="1MnjKBJ87K" thumbCode="1MnjKBJ87K" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="联络" ID="C4B115B1-F367-4D85-879E-83875C801DEC" expanded="False" code="afdBeqpkqI" thumbCode="afdBeqpkqI" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="联系人" ID="F5371DB6-B0CC-4C77-BC7E-779D34099A9F" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="联系人列表" ID="EAECC4C2-F7F0-42B9-A28E-9D0FA7B2FBC8" expanded="True" code="dE8XEbKTDZ" thumbCode="dE8XEbKTDZ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="联系人查询" ID="2F6C519B-F9CB-4981-B37B-977817F54593" expanded="False" code="cGm6RNdPNT" thumbCode="cGm6RNdPNT" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="联系人页面" ID="B5C2FF16-9C5D-479C-9401-D19FAD2A26F1" expanded="False" code="MWZjGeJN5q" thumbCode="MWZjGeJN5q" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="物品推荐" ID="295EABB2-A861-46E9-92CC-A130B3CE6A2E" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="物品推荐列表" ID="30548674-20A4-4677-9442-0ACB5BB2E1E7" expanded="True" code="1o65IiW5Zc" thumbCode="1o65IiW5Zc" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物品推荐查询" ID="CF69813E-DEF0-4E09-9A65-49634ACB812C" expanded="False" code="5Qv6oS6bqu" thumbCode="5Qv6oS6bqu" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物品推荐" ID="954E58F2-B7B4-480A-AA27-FAF6771431F8" expanded="True" code="dlatwUu5cK" thumbCode="dlatwUu5cK" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="联系人档案" ID="D10E6BD5-CB25-4D96-B387-DA466B4ADBF5" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+        <page name="档案列表" ID="7565E408-9701-48CF-86C9-D5F8F0BBE27E" expanded="True" code="V2xxC1ugEl" thumbCode="V2xxC1ugEl" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="档案查询页面" ID="DF410F56-9541-430F-B538-1418470ED470" expanded="False" code="R65FMTOzfm" thumbCode="R65FMTOzfm" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="供应商档案" ID="58E851DF-FE37-4462-A328-EE61F00E8C98" expanded="False" code="f6pgFZONRJ" thumbCode="f6pgFZONRJ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="供应商档案" ID="B33E24AF-6E72-4A16-A129-CFBDC953C521" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="业务信息" ID="8842FC26-F3D4-4474-BF37-B80972BA5859" expanded="False" code="5kYKRDU8CR" thumbCode="5kYKRDU8CR" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="财务信息" ID="5154AAD6-308D-4D5A-BC26-75C1FB5D5800" expanded="False" code="H6ygylURMD" thumbCode="6pyln1XdZz" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="基本信息" ID="C4217C3F-9B06-4A6A-9DC6-4C8A18FE67FF" expanded="True" code="KesroWIzLz" thumbCode="xav9QT3ro7" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="供应商查询" ID="9088ACFA-48E5-46DA-974A-41F0D5BCD8EE" expanded="False" code="1SitbXm9pO" thumbCode="1SitbXm9pO" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+      </page>
+      <page name="供应商管理首页" ID="5E8D4762-0323-42FF-85BE-46494B61F66C" expanded="True" code="kDpki6oXT9" thumbCode="kDpki6oXT9" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="生产管理" ID="9A7381B9-FE9F-4B2B-8DEF-01FBC806FE30" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="生产管理首页" ID="061284B5-9F6C-449C-809F-5B0AA30E6EA8" expanded="True" code="NTlpf9BZma" thumbCode="uevnwDnbDH" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+        </images>
+      </page>
+      <page name="生产任务管理" ID="81A33AC9-0839-4E32-A065-989E62F0B1B6" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="生产任务列表" ID="834BF8EF-AFB1-4CDD-99FF-3BBD13627DF7" expanded="False" code="McD1vkHu2q" thumbCode="mUpkssDVpb" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产任务查询" ID="48C2C398-F692-4818-BE0C-1F1E0B66CAFB" expanded="False" code="3wQNJ7m6hv" thumbCode="ojszjXt4Gc" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产任务" ID="23B6A6FE-DB89-44B1-8FDF-FDAA7F4EE1E3" expanded="False" code="gcwbsBapHh" thumbCode="yUv1TotJtB" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+        <page name="生产汇报列表" ID="10DB898E-0BCF-41E6-9FB0-AAE14724191F" expanded="False" code="ZtzcnAEWWB" thumbCode="3o1tiXmeNl" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产汇报查询" ID="CE710408-24C0-42AF-807B-1DB96D30B5E8" expanded="False" code="cTpG53xTDT" thumbCode="OsRpycwqJS" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产汇报" ID="3BF6C6A2-EFD4-4CC3-A715-328766287AD6" expanded="False" code="pG44wHq1fi" thumbCode="HOJirozCbN" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="物料需求计划" ID="4E9C7AF3-D927-4438-A142-B0F5603FAFA3" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="物料需求列表" ID="6EDE7B06-CA97-4F62-B8DE-84AA63975BE4" expanded="False" code="GdngevhAkA" thumbCode="2CFFDQ7QrW" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料需求计划查询" ID="B04D54B6-3233-4159-B1E4-33D2D54645BD" expanded="True" code="gVvPRTcRwL" thumbCode="tba8rzqdzw" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料需求计划" ID="AF490CFD-D29C-4E32-A37C-2668E326DD0C" expanded="True" code="3iOzRipI2C" thumbCode="WsrpYuKVsN" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="物料清单" ID="A39233EB-1CE2-4F97-82E5-7CEF4E59C0A0" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="物料清单列表" ID="85F87B74-A751-4A38-B73A-F8069583D621" expanded="True" code="H2EgE5giNh" thumbCode="hnF1TTPW4A" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料查询" ID="1E673208-23D1-43C3-B1DB-0340496C8131" expanded="True" code="T6xuE5gWCI" thumbCode="k7X2E7ptbz" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="物料清单" ID="AD528D60-04AA-4FC3-B055-0813FE710C79" expanded="True" code="2u6zx2suoj" thumbCode="pUNx3wj2o2" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="主生产计划" ID="F13188F1-C920-4AE7-9ACB-783987DB2120" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="主生产计划列表" ID="7C9EB317-FB8C-4A39-AAFB-66A1CEE2E793" expanded="True" code="M6VW1JDw5P" thumbCode="HYrVT5K88G" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="主生产计划查询" ID="6531D0DE-D25B-464A-B0AC-DBCB58452410" expanded="True" code="RqsTQiqtgM" thumbCode="EtVsqZYtzP" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="主生产计划" ID="B5619040-60DF-4990-9B66-0B1DE60DA736" expanded="True" code="UkuMQUdeFe" thumbCode="1atioOHR3Q" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="生产领料" ID="83165526-52D9-4EE1-AC14-9907E99F19EA" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="生产领料列表" ID="681CA9F7-DF25-4474-B40F-142644E56C67" expanded="True" code="n1xc9u1OAm" thumbCode="6PNDJSY2CV" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产领料查询" ID="FCFDA62F-5974-4E54-9829-02118FAE463E" expanded="False" code="l5l3ErDig8" thumbCode="rhXs4VXMbJ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产领料" ID="CE31FB25-205C-48B9-A960-CC10FBDC77C2" expanded="False" code="jAZTJnP3DS" thumbCode="AQGrMkRDQo" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+        <page name="生产退料列表" ID="F88A2142-F3CA-4268-AEE0-4E8774AC7041" expanded="False" code="dni9TqqjJE" thumbCode="T1wHRi2K4n" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产退料查询" ID="8A0FCC94-C123-4D36-AFA3-8A6792A5C095" expanded="False" code="GjlnAfmjFL" thumbCode="ayHR7gCcpN" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="生产退料" ID="6E702F1D-3EC4-4617-9373-F097F6A2A78D" expanded="False" code="rawwL6kHlS" thumbCode="en9Pm3ok7y" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="工艺管理" ID="6FBEB17C-6776-404A-B8EC-9EFE843CA10C" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+        <page name="工艺列表" ID="04EC8CBB-FA75-49B7-9907-40A3EB4AD0B7" expanded="False" code="w9ctDCKcas" thumbCode="fj5meWXpwJ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="工序列表" ID="7063ADC1-F4B1-4124-A65D-0235946DD4D2" expanded="False" code="Dy5TRByFq9" thumbCode="hSIDkyxk3J" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="工艺查询" ID="3451C819-2327-4FC2-8BB3-F8DF3E9D9D06" expanded="False" code="ZcR7kQDRKd" thumbCode="Re3sPjtYvN" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="工序查询" ID="2EF7C37F-0E7F-42C1-BAE6-74E8506EFA12" expanded="False" code="pSsgyQs4at" thumbCode="LErjdEYZc8" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          </images>
+        </page>
+        <page name="工艺档案" ID="E510E848-8B2F-4B46-8FE7-AE5F6847CFAF" expanded="True" code="z7Cutm3yjS" thumbCode="QX9J7SyfRR" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+        <page name="基本工序" ID="051EE6D2-64F7-449F-A59F-C0BC6BC9357F" expanded="True" code="EDlwpls9l5" thumbCode="EDlwpls9l5" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+            <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+            <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+            <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+            <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+            <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+            <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+            <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+            <image key="304A33CF2001782626133817EC1615F3.png"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+            <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="个人信息" ID="E4BBB0AF-4048-4A63-857B-0AAA767F45E8" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="个人信息" ID="8151DFBC-7EF6-4CC3-BA5B-61281731124B" expanded="True" code="35BYKoBafS" thumbCode="5UuAiz27bH" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="通知" ID="DAD1F51B-E609-4BF4-B5EB-CF4510C07DBD" expanded="False" code="wYpyIJd6fl" thumbCode="ZslFWSWFEH" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="内部消息" ID="B1185DE1-CA68-41E9-ADA5-2BC14AF631F0" expanded="True" code="c61d7aJu8u" thumbCode="Wk4NarpDxU" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="预警" ID="880CF6DE-DA7F-42C8-BADD-0AA559270F33" expanded="True" code="ZW2KuQZ2WF" thumbCode="nnsiFxqD5H" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="代办" ID="1B038A54-033C-4B5B-93C2-A99AD0C549AF" expanded="True" code="hSrywXqD2A" thumbCode="dxLTHc7KOi" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+        </images>
+      </page>
+      <page name="待办2" ID="5EA71840-8005-472B-9763-450113E5ED47" expanded="True" code="wIypAioe8J" thumbCode="wIypAioe8J" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        </images>
+      </page>
+      <page name="待办1" ID="44FB68A9-05F5-4D79-8153-F8832925DAD4" expanded="True" code="JtbrLGt4hz" thumbCode="JtbrLGt4hz" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="个人信息管理首页" ID="A52F15CB-6F82-4C42-81A4-382023F631EA" expanded="False" code="elhqVddfY7" thumbCode="oNDVTGR9pT" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+          <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+          <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+          <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+          <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+          <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+          <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+          <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+          <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+          <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+          <image key="304A33CF2001782626133817EC1615F3.png"/>
+          <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        </images>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="页面" ID="21C63010-D790-465A-A4AA-E7048FDE1E36" expanded="True" code="BNbY7iA9hS" thumbCode="BNbY7iA9hS" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="采购3.1" ID="F219616C-542D-4F80-98DD-EEE74A13E319" expanded="False" code="TWetlNknoE" thumbCode="lDaNLGUYmL" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="2E6F42AE-9536-4731-BD09-08FE2088EB57" expanded="True" code="EHIaThgnqY" thumbCode="EHIaThgnqY" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="7755B3C3-E660-4707-AED9-865A56F45319" expanded="True" code="hLvWdgaZ3F" thumbCode="hLvWdgaZ3F" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="BC4A1F73-7DBE-4526-A3FA-8B04FB39F69D" expanded="True" code="hY9DkiY8ec" thumbCode="hY9DkiY8ec" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="6C881CD2-3D03-44E3-84A9-A291ACD899F3" expanded="True" code="SqKoWBUgFI" thumbCode="SqKoWBUgFI" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="1F0FB73A-91BC-4C2E-BAE5-E59CB04E26D8" expanded="True" code="OJGcybGRoA" thumbCode="OJGcybGRoA" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="F1E3A1F6-3314-41E4-AE95-28B5B417365A" expanded="True" code="BFBgVVp9r3" thumbCode="BFBgVVp9r3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="1BF6BB2F-0D32-4553-8EF1-836EC5397714" expanded="False" code="8jroEqJ1Fm" thumbCode="8jroEqJ1Fm" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="DB5F235D-FADA-48F5-8111-CFD9DC75A143" expanded="True" code="s8H3WhZlYj" thumbCode="s8H3WhZlYj" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="8120AAB0-865D-4477-9397-89CE88A3BEE3" expanded="True" code="ze5GokjEfg" thumbCode="ze5GokjEfg" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="采购" ID="FD017FC2-89B4-4789-9B2C-947F92ACC344" expanded="False" code="dcMaOo8jRP" thumbCode="dcMaOo8jRP" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="修改密码" ID="38597CB5-F3EF-4664-A8EC-2698F37452BB" expanded="True" code="uWqtG5erj4" thumbCode="5lDmSmDCRY" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="E52D053D-A761-4495-9F3C-CD2207587AFB" expanded="True" code="ZRKddabIqR" thumbCode="ZRKddabIqR" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="成本" ID="991376F8-B52F-4811-91C0-D80CA42330DE" expanded="False" code="2RY4OKDc44" thumbCode="2RY4OKDc44" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="成本管理" ID="8C1E00A0-DB67-468C-9982-3D726BFADBE8" expanded="False" code="7FFT8Bszpc" thumbCode="7FFT8Bszpc" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="BD9D41B7-0A4A-4BD3-AED0-477DDB3000A6" expanded="True" code="HMUo8LJfSb" thumbCode="HMUo8LJfSb" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="物料查询" ID="7C54B8E4-9C4B-430D-A24A-A1C21500B536" expanded="False" code="4XyZOG7L9A" thumbCode="jr8oTQCN86" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="382B692020C8FF58A2149832503834CB.jpg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="首页" ID="154F7C45-B781-4630-9465-35FC7F007B23" expanded="True" code="x4Hdpi3l1H" thumbCode="rD2DovpPH3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="页面" ID="D2B083C9-73EF-459B-B2E6-60FEA5E711EE" expanded="False" code="aW5URd4j4v" thumbCode="aW5URd4j4v" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="874AE0CD-B4C4-4236-8454-B131B65F21E5" expanded="False" code="NRg9dETkaR" thumbCode="NRg9dETkaR" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="物料需求计划" ID="DB7A0D63-AF15-4173-A857-C91CA69137C8" expanded="True" code="iWK1tV5PiF" thumbCode="iWK1tV5PiF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="生产任务管理" ID="27089CDF-AF45-4FB5-A0F8-52AEB5E01AF2" expanded="True" code="QpDuSptB34" thumbCode="QpDuSptB34" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="物料清单" ID="2A603156-13E7-4648-BABB-55F818A5418F" expanded="True" code="3hSePM2tRp" thumbCode="3hSePM2tRp" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="主生产计划" ID="9D72B0CC-0141-4CFA-A227-F59F126F94A2" expanded="True" code="6KEQu8TPWj" thumbCode="6KEQu8TPWj" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="生产领料管理" ID="63C5FF00-1BB8-41A5-84A6-6768D57FA81C" expanded="True" code="oeeVTvlinu" thumbCode="oeeVTvlinu" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="工艺管理" ID="E6990A59-6637-4FB4-8565-DD384BDF4E10" expanded="True" code="KT9KxpjQSC" thumbCode="KT9KxpjQSC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="8ADCE28D-A8BD-4377-BC5E-3DCA87C0453B" expanded="False" code="57evS1LN9V" thumbCode="57evS1LN9V" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="C2F77FAC-B6C7-4FBC-BFE7-1909F895D595" expanded="False" code="NWjR1Mihfs" thumbCode="NWjR1Mihfs" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="07624310-C8ED-42DE-B4D4-83C3A950F4D5" expanded="True" code="DxkLNmdvfv" thumbCode="DxkLNmdvfv" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="产品成本查询" ID="FBC664A9-E71E-4C29-9CFC-FCA45425CE28" expanded="True" code="DpYDaYqUJV" thumbCode="bwPBgKPNUR" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="产品成本列表" ID="68A8C53D-2CBA-453A-B279-D501BD97AF81" expanded="True" code="W9y6bh1alK" thumbCode="WcmombyNCN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="产品成本" ID="55D741E5-C064-46D3-AE77-0D0651B8ED13" expanded="True" code="iQ5jvrMR7w" thumbCode="tAjyLHOBxE" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="物料成本" ID="57EE411E-1344-45E0-B377-60DD9BB9867A" expanded="True" code="GWK9rC9TXo" thumbCode="n5ml1ygdKb" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料成本查询" ID="27E30BAC-5F89-4567-BA05-66CBE339D6AE" expanded="False" code="1Qajt9Vh2q" thumbCode="9FFM9dttdz" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料成本列表" ID="7E7D1ACC-AB3D-40E7-876C-9780FA9D8176" expanded="True" code="Tn2aRlDYNF" thumbCode="6JFwHHAFaS" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料列表" ID="FE660748-1D64-4696-A077-54D61B8E633F" expanded="True" code="HInAitxAIA" thumbCode="1LUyHWM4oC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料信息" ID="16DCC673-521F-45B1-8720-40AFFCCF70A3" expanded="True" code="6KvTIVtTCA" thumbCode="O3UrQdDix4" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="物料查询" ID="31093B13-D507-4386-B67D-A9BA0A68CDF1" expanded="True" code="zyMJMNLcPz" thumbCode="dgR6zIJzqz" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料列表" ID="AE3058A0-C161-4137-942D-23A73F786EAD" expanded="False" code="TmipiJBPg4" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="物料查询" ID="C534586C-2884-4C6E-8086-B88F97E3EA05" expanded="True" code="ufAxBaINSN" thumbCode="qsMXDEcOon" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="BOM清单列表" ID="D56DC84F-E598-43C8-B385-AEA8A15FDDD3" expanded="False" code="Xb9FbVLMua" thumbCode="p7WDDzM2fE" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="BOM信息" ID="B16193CD-B876-491D-967D-343DEA56C2A8" expanded="False" code="FvdBHM2SJW" thumbCode="ohYORJMKSc" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="BOM查询" ID="FF6E84C8-2C4D-4739-9A51-7999326D1B15" expanded="False" code="DDPhZCIXsy" thumbCode="CNe1VJX2ym" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="产品成本查询1" ID="BA960B01-6820-4999-9876-7B5A639D03DB" expanded="False" code="1whrpcllkx" thumbCode="vzI8uzaGVN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="采购查询" ID="9432DE61-7270-44F4-B607-8BD259A4C694" expanded="True" code="kIxeHude3P" thumbCode="XHcVC7zN7M" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="产品成本查询" ID="0C5E01E5-1D7C-4FB8-9C10-4AACEA1539B3" expanded="False" code="jeDkeFH5pW" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="采购订单列表" ID="853CF568-0774-45D3-A3C1-3895A09E51E7" expanded="True" code="879uU1pDmg" thumbCode="2HG1W3uDeP" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购订单" ID="EA7A6294-4292-41FB-AC8C-90A4ABC95C47" expanded="False" code="39BpRxSJ9D" thumbCode="QyVbLnCgSd" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购退货" ID="E382E9AC-D926-444A-AB38-17B705396286" expanded="True" code="vVcNww5bRD" thumbCode="g3HYH7N76q" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购退货列表" ID="DC312389-1FBF-4534-BC3A-EA35BB899A72" expanded="True" code="6IZiR5QiTi" thumbCode="aP7XDgDzkx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购计划列表" ID="45BBC65F-CEFF-4C93-B37B-5A84EFE6B555" expanded="False" code="4vnhCnvsld" thumbCode="wqugGk6NUH" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购计划" ID="BBD4DD5C-8F11-4D2A-A5EB-5F8411912DD9" expanded="True" code="fhvSX446sv" thumbCode="KZFqHBH3EU" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购申请列表" ID="904014B6-6DEF-4B5A-86BF-2151818768D3" expanded="False" code="QhCp84lANP" thumbCode="qqtqnWF9Dw" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购申请" ID="B51EADC3-8AA6-4EFC-B313-E58134EF4FB6" expanded="True" code="TmQRWpintg" thumbCode="zDxd8N1kzt" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购到货列表" ID="6F4E1ADE-2738-4357-8534-6AECDB613259" expanded="True" code="eDSwB7HBYz" thumbCode="8HAKZBLIBe" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购到货" ID="EB2B7041-ADAA-4550-AD48-3DEA32F19FFB" expanded="False" code="78RqarDQcY" thumbCode="EEoIWbsVSh" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购询价列表" ID="A5C2D08B-BD9A-48E5-9722-3E0C78AA6461" expanded="True" code="gZ2F11jgeJ" thumbCode="jhBZzSMpZL" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购询价" ID="C5D97CAB-D6C4-44BA-A4B6-F16C0D88C1BF" expanded="True" code="xRRaqZXMr8" thumbCode="pARQNVyaeC" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购合同列表" ID="F87FEBCF-58F9-4346-A869-4F7C78DBF189" expanded="True" code="IwUlAnqiBL" thumbCode="TKYuadkooH" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购合同" ID="A445678F-7544-4831-BF94-FD9D164F30F3" expanded="True" code="3bx7nKEK4R" thumbCode="92np7fR8By" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="其他入库列表" ID="AB5FF84F-3AC2-4B56-A887-955EB07C273D" expanded="True" code="4q5MmHnecC" thumbCode="aSWzZOuhUC" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="其他入库" ID="AF0D76D1-45C3-4E79-BEF0-B076EDE66E86" expanded="True" code="sKKOOc57NZ" thumbCode="DCkr3XCRlr" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="库存报损列表" ID="BF6AB021-0423-4DC3-9B6F-45908E472950" expanded="False" code="kcGVkhFKl5" thumbCode="jXEONTirdR" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="库存报损" ID="FEB62C88-4F37-454A-AAE8-1809C714F7F5" expanded="True" code="9dZM8fTlbo" thumbCode="jwask7fHqO" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="期末盘点列表" ID="4623E71B-4A3B-4D4F-8CCB-7E6E97FB2FB1" expanded="True" code="BYwVtDbifj" thumbCode="jorHZgFO6S" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="期末盘点" ID="14D36AF9-D42E-41AC-82F5-2A87E28E0231" expanded="True" code="HiHG1ULber" thumbCode="xsAHukcWay" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="出库管理列表" ID="3C35DCF0-6A2E-46E1-9495-E16152FBB26C" expanded="True" code="J6vppHXuVi" thumbCode="F9uNebAPnx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="出库管理" ID="C2C8969D-2AAA-4560-8B38-A8828A8F5640" expanded="True" code="uC55ZggTnv" thumbCode="otMUixO2Js" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="库存期初列表" ID="5048F9AD-9546-467B-8106-13FC7139703E" expanded="True" code="pQTyHALpiw" thumbCode="bTGEDEy5rc" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="库存期初" ID="B553CA6D-CA4C-47FF-8ED1-EF2C78D0E0FF" expanded="False" code="ArreJssPWQ" thumbCode="sgPEhO6MYe" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购入库列表" ID="8492D9D6-D0D9-4C6A-B636-A186270DAC7A" expanded="False" code="xzOkgkljsR" thumbCode="5UKwe85Y1r" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="采购入库" ID="46783DDB-E85E-4255-A840-5329D858AB26" expanded="True" code="tRWIDqK8nF" thumbCode="mY9Lp49Jho" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联络列表" ID="4034E547-9FAB-491C-BAF0-0D97504B0884" expanded="True" code="GtZj4qIf1l" thumbCode="lHPoXkTkGo" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联络查询" ID="E558A554-3008-4E3A-8B0A-64691B9023B6" expanded="True" code="Cp8TbnozsU" thumbCode="jXX3XVA1VP" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联络" ID="E82216E5-4F24-4B5A-8F7D-395B5D90EEB3" expanded="True" code="Ewn4oTtbKf" thumbCode="3zajL9CtXP" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联系人列表页面" ID="54F7B318-1D93-4DBB-ADAA-5F8159944E94" expanded="True" code="DCfzaww8sq" thumbCode="uobXmh8w57" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联系人查询页面" ID="706C8D08-1C95-472A-A926-E306A77209EA" expanded="True" code="VKP1h1gxnQ" thumbCode="Pje1vfxuop" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联系人页面" ID="3D928F17-B9EE-4D95-800B-E6732D6D55B5" expanded="True" code="sZlqjvyHXM" thumbCode="3dhUhlWTrr" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="联系人列表1" ID="D423AF5E-9146-49E7-9302-4DBF2950049F" expanded="False" code="7nm3NeABPv" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="联系人查询1" ID="62036ABF-FCC1-4079-BBBC-E859DCA61790" expanded="False" code="5QGjyaZXoH" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="联系人页面1" ID="41CD71ED-C96D-41E4-A4F6-49FF2E625F2D" expanded="False" code="86VkUURFgS" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="物品推荐" ID="2FBC1E35-364F-400D-A874-09AB534EFD25" expanded="True" code="yrXmZuzOhk" thumbCode="31ZpmC1ZC8" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物品推荐列表" ID="9F65D33D-A190-4E57-A0AB-12E4FFB85CC9" expanded="True" code="RCMbSkswYV" thumbCode="wRj8OZaNcW" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物品推荐查询" ID="E0F4B71B-963C-463B-AB08-3843055DA8F5" expanded="True" code="WvGM8Jeg9d" thumbCode="QdhA914IeD" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="档案列表页面" ID="1E17BEA5-33E8-4263-AB0B-DEE15DBA7C36" expanded="True" code="6avnhzHpQ1" thumbCode="vA5lrADQ3k" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="档案查询页面" ID="1C653D54-57CB-4868-B6E5-57508569B620" expanded="True" code="AuYdRe6Y1z" thumbCode="YSiMaN4Twy" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="供应商档案页面" ID="801C8926-75C5-480D-B081-A6D633976DF0" expanded="True" code="KqzdpHTRq1" thumbCode="noeENoQziw" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="供应商查询" ID="F117C6A4-3916-49BC-8053-AE90DE1AEC9C" expanded="True" code="OpSIIB1tzm" thumbCode="9eAerhYdwc" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产管理首页" ID="CB706075-8B89-4580-9A6A-00158710653E" expanded="True" code="XDviNtk53u" thumbCode="scT8KZT4GC" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+      </images>
+    </page>
+    <page name="生产任务" ID="93F91131-1A2D-4525-9F7A-9E026A67B44F" expanded="True" code="OudW47oa35" thumbCode="eUoSFAhgGx" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产任务列表" ID="CA82B556-D4A8-405C-B451-A548B364C78D" expanded="True" code="Nwu6UQbFzN" thumbCode="Zfq9iZ8AuS" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产任务查询" ID="BF875A07-F7C8-4ED0-9C6A-2E9CE599701A" expanded="True" code="lJNdqAmlUB" thumbCode="yabXjn4ezN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产任务汇报" ID="80B5B95C-1469-4ECB-9AB0-325F08AEEFBC" expanded="True" code="LKNbBjJKY2" thumbCode="qC2WwsdmJD" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="生产汇报查询" ID="E2C52E3B-C1A0-4E92-BE9B-A6DE62BC48A5" expanded="True" code="l2peaMOeCg" thumbCode="p1BrvDUyEV" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产汇报列表" ID="321A7729-814B-4060-8EBF-93D157F282B6" expanded="True" code="igej2sprRk" thumbCode="wjIwTYGXRT" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料清单列表" ID="AFFCD5FA-9EC3-4CA7-8A3F-C35ECD993203" expanded="True" code="i1rl6fc5WC" thumbCode="b73te91m7d" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料需求计划" ID="68CC74C8-76B5-4D53-9D66-846968E64D29" expanded="True" code="mMhks1VoXI" thumbCode="KfieMCn2PX" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="物料需求计划查询" ID="EC88DCAF-1F7D-4EE7-BBB3-24233A4A38F4" expanded="True" code="VOwwYA5bKw" thumbCode="bVYz74I4lI" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料查询" ID="5772563D-0D0F-4E1A-AE23-DF9225E67257" expanded="True" code="DduCOy35Pg" thumbCode="4LgYGfq6A8" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="物料清单" ID="389393F2-EE35-4823-A150-BF026DDF5B91" expanded="True" code="FJhDvY3l2U" thumbCode="lKcoulMqla" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="物料清单列表" ID="06FFFC43-30E3-4858-AB02-7A5F93FF04D2" expanded="True" code="Db9LiuPGUC" thumbCode="wgGirUQNys" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="主生产计划" ID="CBBF3747-8FB3-4352-B26E-23C8762B9825" expanded="True" code="icbDiOxCVm" thumbCode="Cu4UvXesEM" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="主生产计划查询" ID="24D61030-74DB-4213-A812-FD0946390245" expanded="True" code="qHyER5XYKd" thumbCode="NyiITHJVJU" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="主生产计划列表" ID="2A851CCB-D461-4CE3-8BD1-7D20CCEC0A7C" expanded="True" code="FGxiyTj9Ld" thumbCode="A1NhZTOpKv" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="登录" ID="28D87B59-AAAE-44C7-91BB-EE41186015BA" expanded="False" code="pvrlHzuHJ7" thumbCode="vxb5EsgJPc" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F9B23F8E1D3D8455568D606C4B3F0A94.png"/>
+        <image key="75BA60A4860FF17DE2568E4319C011E5.jpg"/>
+        <image key="4FD5966852542612EBBAFE6F2A4F8D76.jpg"/>
+      </images>
+    </page>
+    <page name="生产领料查询" ID="498561A0-E5CE-47B7-BDCD-CB5127B655DA" expanded="True" code="Ahgjk9FDby" thumbCode="U8F5wumGyK" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产退料查询" ID="263C3A0E-3FC6-4C77-BF69-ACE490D27B74" expanded="True" code="NeegYkAjy1" thumbCode="Bx1GJQLThU" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产领料列表" ID="16FB43AC-CC91-452F-A04C-19C9BF48CE9A" expanded="True" code="UUlp5NsxMx" thumbCode="grwl8KjCqH" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产退料列表" ID="CC6EBA2F-DCC0-4CA3-87DC-370510994557" expanded="True" code="gMW1rt3xmI" thumbCode="MrMr6CSCWm" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="生产领料" ID="1BC49931-E9FE-439A-9BC3-30337E9EF611" expanded="True" code="pQIa2JYmjv" thumbCode="u9MUoAI2Bi" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="生产退料" ID="981EAD10-4DF9-4CE6-B4B3-45485F489E98" expanded="True" code="69MNaaMDle" thumbCode="VwIkevWd7d" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="工艺查询" ID="DAE6D8EE-9726-42DE-A770-59B368C8412F" expanded="True" code="ZvBOOAsAvo" thumbCode="iCiJnDhY9M" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="工序查询" ID="5A63A17A-CD8B-42D5-90D1-2E02BC2C45A4" expanded="True" code="kUCNiA9oCl" thumbCode="KCfsvIBhMb" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="工艺档案" ID="2E3A1C98-40B5-4097-85A1-E6127DB10B5E" expanded="True" code="kM3EZjEcoN" thumbCode="uDSwVAiwhy" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="传统工序" ID="7AE40768-733B-41E4-B72D-74D84E12DCFC" expanded="True" code="diV2Qg1dxl" thumbCode="Puc1HOEcnJ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+        <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+      </images>
+    </page>
+    <page name="工艺档案列表" ID="31DFFF32-150A-4573-8A76-E5FFCB1913C2" expanded="True" code="JQvooZhFvP" thumbCode="vPJ3ADfPBP" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="工序列表" ID="84765960-4F2B-4057-9633-A3310D4C7264" expanded="False" code="KY5rU3pEqj" thumbCode="5MQzbSwwjK" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="待办" ID="2163F5CA-1EFA-448D-A7E8-07CEE4F0B332" expanded="True" code="ga24kGnNyb" thumbCode="T1QvytglWz" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="个人信息" ID="3E11DAB9-E003-4547-8491-5F191F5EA945" expanded="True" code="fUqwJaCZwk" thumbCode="oTBrFf5lbv" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="预警" ID="8DBFBF11-00C1-42E9-B852-99624CF7BE1D" expanded="True" code="kHoN1rZ2b7" thumbCode="C2kgVnQv3A" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="通知" ID="8FD03545-CBA9-47E0-8338-3669F4431330" expanded="True" code="hh7ggzEPZj" thumbCode="whRYj7fnC2" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="内部消息" ID="9A2FE43D-0078-4AA2-A867-128A3918274D" expanded="True" code="mE2zcY99H6" thumbCode="IpJvc4uXut" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="其他入库列表" ID="4215CFCD-ECC5-40D7-86E7-A0C0EC5571BE" expanded="False" code="9ekO3Wl3x5" thumbCode="9mAPiG7YJ5" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+        <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+        <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+        <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+        <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+        <image key="304A33CF2001782626133817EC1615F3.png"/>
+        <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+      </images>
+    </page>
+    <page name="库存查询" ID="7D643331-003B-48C9-9C6F-BE08B5EC03B7" expanded="True" code="edBoeIO7aD" thumbCode="cNiEuaBiRe" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+        <image key="782E466B162855DE79C0A37644930D25.png"/>
+        <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+        <image key="05409297A318574861F74F315BBC7048.png"/>
+        <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+      </images>
+    </page>
+    <page name="页面" ID="715E3856-02BC-41AB-A1EF-9AB6AA117118" expanded="False" code="oWEvzVEBm3" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="7C6B82072143CAEC0EEA7553C2CDFE82.png"/>
+    <image key="524D9A41776CD1EF98956BB68F9875AC.svg"/>
+    <image key="84E43FD667F4EA128EEFBAD7B03B51F5.svg"/>
+    <image key="CC919DDC6CDBB39A5D0164815C694B67.png"/>
+    <image key="7576404D8A34901927FBE71ADC5AA295.png"/>
+    <image key="FB6E01208253BF3C06BC2566A9982D57.png"/>
+    <image key="782E466B162855DE79C0A37644930D25.png"/>
+    <image key="00B95EF219967F400695DB20B0044ACF.svg"/>
+    <image key="75BA60A4860FF17DE2568E4319C011E5.jpg"/>
+    <image key="382B692020C8FF58A2149832503834CB.jpg"/>
+    <image key="A94855A24FDC035B723B47FE7D0A639B.png"/>
+    <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+    <image key="A3A37E2BE744599916373D8B5FFD0D58.png"/>
+    <image key="F9B23F8E1D3D8455568D606C4B3F0A94.png"/>
+    <image key="569085B83C0FF79DC3FB4078E87A0F3A.png"/>
+    <image key="8A082F1A3A1643E732C7474FEA416FED.png"/>
+    <image key="4FD5966852542612EBBAFE6F2A4F8D76.jpg"/>
+    <image key="05409297A318574861F74F315BBC7048.png"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+    <image key="1187501E4B57499BB8A106117FB86CC2.jpg"/>
+    <image key="304A33CF2001782626133817EC1615F3.png"/>
+    <image key="BBFBAC02C3EF7AC27F9AF1E5EDE43B6D.png"/>
+    <image key="4523DD83CE1C81CD6E4A69C1CE81EE5E.png"/>
+    <image key="9E83C34716EA4AF7023DCAFBCFFD5DF7.png"/>
+    <image key="8DCF85E96A947981CF6F710925D7D8D1.png"/>
+    <image key="0B8568F962457D4D13DD25CE5C13D9AD.png"/>
+  </images>
+</project>

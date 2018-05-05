@@ -1,0 +1,308 @@
+<mockup version="5.2" minAllowVersion="5.2" ID="44FB68A9-05F5-4D79-8153-F8832925DAD4" platform="MtWeb" defaultW="1150" defaultH="6000" measureW="1150" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="EBBDF15C-8756-4867-AA65-5986053AEE19" controlTypeID="__group__" x="38" y="28" w="755" h="138" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="6E956CCD-3563-4624-8C1C-FE812575F86C" controlTypeID="TextArea" x="7" y="2" w="117" h="31" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%BA%A7%E5%88%AB%EF%BC%9A</text>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FCF04585-A7EB-45FD-8900-E94EB40D45AF" controlTypeID="CompositeComboBox" x="52" y="1" w="137" h="24" zOrder="1">
+          <groupChildrenDescriptors>
+            <control controlID="87F17428-AE52-44D2-BC7F-C4DF6E6ACB92" controlTypeID="TextInput" x="0" y="0" w="114" h="24" zOrder="0">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>input</alias>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>---%E9%80%89%E6%8B%A9---</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="C690D4D8-E7C3-4594-AC42-858BAF89794E" controlTypeID="Button" x="113" y="0" w="24" h="24" zOrder="1">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>button</alias>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>0</radius>
+            </control>
+            <control controlID="26D3E897-0235-4863-A224-DA891698ED38" controlTypeID="List" x="0" y="24" w="137" h="98" zOrder="2">
+              <isShow>False</isShow>
+              <canMove>False</canMove>
+              <alias>dropDown</alias>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>---%E9%80%89%E6%8B%A9---%0D%0A%E4%B8%80%E8%88%AC%0D%0A%E7%B4%A7%E6%80%A5%0D%0A%E9%87%8D%E8%A6%81</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <itemHeight>24</itemHeight>
+              <interlaceColor>4294967295</interlaceColor>
+            </control>
+          </groupChildrenDescriptors>
+          <baseHeight>24</baseHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="628132E9-AF4D-4CDA-8F87-3E31E7AB3405" controlTypeID="TextArea" x="243" y="2" w="117" h="31" zOrder="2">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%88%B0%E6%9C%9F%E7%B1%BB%E5%9E%8B%EF%BC%9A</text>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="84745606-1930-4A79-83DA-2879F6338FB4" controlTypeID="CompositeComboBox" x="319" y="2" w="137" h="24" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="6F630922-272E-4EDA-A83C-F004513A0E09" controlTypeID="TextInput" x="0" y="0" w="114" h="24" zOrder="0">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>input</alias>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>---%E9%80%89%E6%8B%A9---</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B666D029-C20C-430F-B0F2-C2245871AA6C" controlTypeID="Button" x="113" y="0" w="24" h="24" zOrder="1">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>button</alias>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>0</radius>
+            </control>
+            <control controlID="DC2BEBF3-87BA-4E21-AF23-E59FA10D1DF7" controlTypeID="List" x="0" y="24" w="137" h="98" zOrder="2">
+              <isShow>False</isShow>
+              <canMove>False</canMove>
+              <alias>dropDown</alias>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>---%E9%80%89%E6%8B%A9---%0D%0A%E5%B7%B2%E8%BF%87%E6%9C%9F%0D%0A%E4%BB%8A%E5%A4%A9%E5%88%B0%E6%9C%9F%0D%0A%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9C%9F</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <itemHeight>24</itemHeight>
+              <interlaceColor>4294967295</interlaceColor>
+            </control>
+          </groupChildrenDescriptors>
+          <baseHeight>24</baseHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="5B42F4B7-A098-4C4A-9A8A-2A1D19490888" controlTypeID="Button" x="481" y="0" w="70" h="28" zOrder="4">
+          <color>4281571839</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>%E6%9F%A5%E8%AF%A2</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="091D5EA6-0A9A-460B-91F1-E35A4C56C3CE" controlTypeID="Table" x="0" y="48" w="755" h="90" zOrder="5">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E8%A1%A8%E6%A0%BC</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <editIndex>0</editIndex>
+          <rows>
+            <row height="30">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="177">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="126">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="90">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="90">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="91">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="90">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="91">
+              <editIndex>0</editIndex>
+            </col>
+          </cols>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E4%BB%BB%E5%8A%A1%E5%90%8D%E7%A7%B0</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="1,1">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E8%B4%A3%E4%BB%BB%E4%BA%BA</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="2,2">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E5%85%AC%E5%BC%80</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="3,3">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E7%8A%B6%E6%80%81</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="4,4">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E7%B1%BB%E5%9E%8B</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="5,5">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E5%BC%80%E5%A7%8B%E6%97%B6%E9%97%B4</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="6,6">
+              <backColor>4281571839</backColor>
+              <textColor>4294967295</textColor>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>%E7%BB%93%E6%9D%9F%E6%97%B6%E9%97%B4</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <text>(%E8%B6%85%E6%9C%9F)%E5%B9%BF%E5%8F%91%E5%8D%8E%E7%A6%8F+%E7%9A%84</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="1,1">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="2,2">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="3,3">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="4,4">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="5,5">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="6,6">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="0,0">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="1,1">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="2,2">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="3,3">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="4,4">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="5,5">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="6,6">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4280595434</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
